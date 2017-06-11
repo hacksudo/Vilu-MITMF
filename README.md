@@ -42,7 +42,8 @@ POWERFULL & Easy for use
        W    -  Write your own filter                                    |
        S    -  Scan LAN for live hosts                                  |
        H    -  Morpheus github help                                     |
-       E    -  Exit/close Morpheus                                    ╚───────────────────────────────────────────────────────────────────────╣
+       E    -  Exit/close Morpheus                                    
+       
 
 Morpheus it's a Man-In-The-Middle (mitm) suite that allows users to manipulate     
 tcp/udp data using ettercap, urlsnarf, msgsnarf and tcpkill as backend applications.     
@@ -58,7 +59,7 @@ HINT: morpheus allow you to improve filters in 2 diferent ways
 
 
 INSTALLATION :
-╚───────────────────────────────────────────────────────────────────╣
+─────────────────────────────────────────────────────────────╣
  
 #unzip Vilu-MITMF.zip         
 #cd Vilu-MITMF        
@@ -67,7 +68,7 @@ INSTALLATION :
 
 
  CONTACT US : 
- ╚───────────────────────────────────────────────────────────────────╣
+ ────────────────────────────────────────────────────────────╣
  
  #Any issue email me 
  viluhaxor@gmail.com
