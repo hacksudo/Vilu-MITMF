@@ -8,22 +8,22 @@
     ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║     ██║  ██║███████╗╚██████╔╝███████║
     ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝ vilu.0.1
 
-
-
-Framework description     
+                          ----------------------
+                          |Framework description|     
+                           ----------------------
 
 #Tools : MITMF attack
 POWERFULL & Easy for use
 
 #Redistributed by VILUHAXOR
-
 #Features Of The Tool:
 
-   www.leetvilu.blogspot.in | Thanks RedTeam | r00t-3xp10it | Vilu-haxor |
+ www.leetvilu.blogspot.in 
+ Thanks RedTeam | r00t-3xp10it | Vilu-haxor |
 
     
        1    -  Firewall filter  (tcp/udp)      -  report/capture_creds  |
-         -  Capture cookies  (http/auth)    -  sidejacking attack       |
+       2  -  Capture cookies  (http/auth)    -  sidejacking attack       |
        3    -  Drop all packets (src/dst)      -  packets drop/kill     |
        4    -  Redirect browser traffic        -  to another domain     |
        5    -  Redirect browser traffic        -  to google sphere      |
