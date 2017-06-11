@@ -22,15 +22,15 @@ POWERFULL & Easy for use
    www.leetvilu.blogspot.in | Thanks RedTeam | r00t-3xp10it | Vilu-haxor |
 
     
-       1    -  Firewall filter  (tcp/udp)      -  report/capture_creds |
-         -  Capture cookies  (http/auth)    -  sidejacking attack   |
-       3    -  Drop all packets (src/dst)      -  packets drop/kill    |
-       4    -  Redirect browser traffic        -  to another domain    |
-       5    -  Redirect browser traffic        -  to google sphere     |
-       6    -  Sniff browser traffic (http)    -  visited url's        |
-       7    -  Sniff browser traffic (http)    -  capture pictures     |
-       8    -  Sniff chat messages   (live)    -  AOL,IRC,YAHOO,MSN    |
-       9    -  Inject backdoor into (</body>)  -  exe,bat,jar,ps1,dll  |
+       1    -  Firewall filter  (tcp/udp)      -  report/capture_creds  |
+         -  Capture cookies  (http/auth)    -  sidejacking attack       |
+       3    -  Drop all packets (src/dst)      -  packets drop/kill     |
+       4    -  Redirect browser traffic        -  to another domain     |
+       5    -  Redirect browser traffic        -  to google sphere      |
+       6    -  Sniff browser traffic (http)    -  visited url's         |
+       7    -  Sniff browser traffic (http)    -  capture pictures      |
+       8    -  Sniff chat messages   (live)    -  AOL,IRC,YAHOO,MSN     |
+       9    -  Inject backdoor into (</body>)  -  exe,bat,jar,ps1,dll   |
        10    -  Firefox browser heap-spray      -  buffer overflow      |
        11    -  Android browser heap-spray      -  buffer overflow      |
        12    -  Tor-browser heap-spray(windows) -  buffer overflow      |
@@ -38,12 +38,11 @@ POWERFULL & Easy for use
        14    -  Modem/router login webpage      -  javascritp_keylooger |
        15    -  Replace website images          -  img src=http://other |
        16    -  Replace website text            -  replace: worlds      |
-                                                                       |
-       W    -  Write your own filter                                   |
-       S    -  Scan LAN for live hosts                                 |
-       H    -  Morpheus github help                                    |
-       E    -  Exit/close Morpheus                                     |
-    ───────────────────────────────────────────────────────────────────╣
+                                                                        |
+       W    -  Write your own filter                                    |
+       S    -  Scan LAN for live hosts                                  |
+       H    -  Morpheus github help                                     |
+       E    -  Exit/close Morpheus                                    ╚───────────────────────────────────────────────────────────────────────╣
 
 Morpheus it's a Man-In-The-Middle (mitm) suite that allows users to manipulate     
 tcp/udp data using ettercap, urlsnarf, msgsnarf and tcpkill as backend applications.     
@@ -58,10 +57,21 @@ HINT: morpheus allow you to improve filters in 2 diferent ways
 2º - Edit filter using 'morpheus scripting console' and the changes are active only once  
 
 
-                          : Villu : 
+INSTALLATION :
+╚───────────────────────────────────────────────────────────────────╣
+ 
+#unzip Vilu-MITMF.zip         
+#cd Vilu-MITMF        
+#chmod +x morpheous.sh     
+#./morpheous.sh
+
+
+ CONTACT US : 
  ╚───────────────────────────────────────────────────────────────────╣
  
  #Any issue email me 
  viluhaxor@gmail.com
+ #BlackHoleTeam
  
  special thanks | r00t-3xp10it |
++----------------------------------------------------------------------+
